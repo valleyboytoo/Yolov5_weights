@@ -1,5 +1,5 @@
-train: /kaggle/working/datasets/German_traffic_signs-2/train/images
-val: /kaggle/working/datasets/German_traffic_signs-2/valid/images
+train: /kaggle/working/datasets/ts_detection_yolov5-1/train/images
+val: /kaggle/working/datasets/ts_detection_yolov5-1/valid/images
 
 nc: 43
 names: ['speed limit 20', 'speed limit 30', 'no overtaking(trucks)', 'priority at next intersection', 'priority road', 'give way', 'stop', 'no traffic both ways', 'no trucks', 'no entry', 'danger', 'bend left', 'speed limit 50', 'bend right', 'bend', 'uneven road', 'slippery road', 'road narrows', 'construction', 'traffic signal', 'pedestrian crossing', 'school crossing', 'cycles crossing', 'speed limit 60', 'snow', 'animals', 'restriction ends', 'go right', 'go left', 'go straight', 'go right or straight', 'go left or straight', 'keep right', 'keep left', 'speed limit 70', 'roundabout', 'restriction ends', 'restriction ends(trucks)', 'speed limit 80', 'restriction ends 80', 'speed limit 100', 'speed limit 120', 'no overtaking']
